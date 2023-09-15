@@ -1,0 +1,18 @@
+$theme-colors: (
+        "primary": #FB8500,
+        "secondary": #C8CDFE,
+        "info": #0FA3B1
+);
+
+
+// Import Bootstrap and its default variables
+@import 'bootstrap';
+
+$background: #E6E8FE;
+body {
+  background-color: $background;
+}
+
+.bg {
+  background-color: $background;
+}

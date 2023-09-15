@@ -1,0 +1,25 @@
+:root {
+    --primary: #FB8500;
+    --secondary: #C8CDFE;
+    --text-black: #00020F;
+}
+
+.textoSerif {
+    font-family: 'DM Serif Text', serif!important;
+}
+
+.textoSansSerif {
+    font-family: 'DM Sans', sans-serif!important;
+}
+
+.textoBold {
+    font-weight: bold!important;
+}
+
+.bg {
+    background-color: #E6E8FE!important;
+}
+
+.textoBlack {
+    color: var(--text-black)!important;
+}

@@ -1,0 +1,6 @@
+projectKey=analise-mycookbook
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=analise-mycookbook
+ceTaskId=AYlsOSHVGfRI2ty8tjHE
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlsOSHVGfRI2ty8tjHE

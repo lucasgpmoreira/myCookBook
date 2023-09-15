@@ -1,0 +1,27 @@
+.botaoReceita {
+    background-color: var(--secondary);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 15px 18px;
+    min-width: 30%;
+    margin: 20px 10px;
+    box-shadow: 2px 2px 0.2em rgba(51, 44, 255, 0.2);
+}
+
+.botaoReceita > div > h5 {
+    font-weight: bold;
+}
+
+
+.botaoReceita > div > a {
+    margin-bottom: 15px;
+    color: #219EBC!important;
+}
+
+.botaoReceita > div > p {
+    margin-bottom: 2px;
+}
+
+.iconLike {
+    color: var(--primary);
+}

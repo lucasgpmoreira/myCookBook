@@ -1,0 +1,12 @@
+@import url('../../App.css');
+
+.backgroundAdd {
+    background-color: var(--secondary);
+    border-radius: 5px;
+}
+
+
+
+.backgroundAdd > div > img {
+    width: 150px;
+}

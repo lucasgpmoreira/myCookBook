@@ -1,0 +1,52 @@
+[
+  {
+    "usuario": "123",
+    "receita": 1,
+    "dataSalvamento": "15/06/2023"
+  },
+  {
+    "usuario": "456",
+    "receita": 1,
+    "dataSalvamento": "15/06/2023"
+  },
+  {
+    "usuario": "456",
+    "receita": 2,
+    "dataSalvamento": "16/06/2023"
+  },
+  {
+    "usuario": "789",
+    "receita": 1,
+    "dataSalvamento": "17/06/2023"
+  },
+  {
+    "usuario": "111",
+    "receita": 3,
+    "dataSalvamento": "18/06/2023"
+  },
+  {
+    "usuario": "111",
+    "receita": 0,
+    "dataSalvamento": "19/06/2023"
+  },
+  {
+    "usuario": "456",
+    "receita": 0,
+    "dataSalvamento": "20/06/2023"
+  },
+  {
+    "usuario": "666",
+    "receita": 1,
+    "dataSalvamento": "21/06/2023"
+  },
+  {
+    "usuario": "666",
+    "receita": 3,
+    "dataSalvamento": "22/06/2023"
+  },
+  {
+    "usuario": "777",
+    "receita": 1,
+    "dataSalvamento": "23/06/2023"
+  }
+]

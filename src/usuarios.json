@@ -1,0 +1,57 @@
+{
+  "usuarios": [
+    {
+      "idUsuario": "123",
+      "nomeDeUsuario": "João Silva",
+      "email": "joao.silva@example.com"
+    },
+    {
+      "idUsuario": "456",
+      "nomeDeUsuario": "Maria Santos",
+      "email": "maria.santos@example.com"
+    },
+    {
+      "idUsuario": "789",
+      "nomeDeUsuario": "Pedro Oliveira",
+      "email": "pedro.oliveira@example.com"
+    },
+    {
+      "idUsuario": "111",
+      "nomeDeUsuario": "Ana Costa",
+      "email": "ana.costa@example.com"
+    },
+    {
+      "idUsuario": "222",
+      "nomeDeUsuario": "José Santos",
+      "email": "jose.santos@example.com"
+    },
+    {
+      "idUsuario": "333",
+      "nomeDeUsuario": "Mariana Almeida",
+      "email": "mariana.almeida@example.com"
+    },
+    {
+      "idUsuario": "444",
+      "nomeDeUsuario": "Rafael Pereira",
+      "email": "rafael.pereira@example.com"
+    },
+    {
+      "idUsuario": "555",
+      "nomeDeUsuario": "Camila Santos",
+      "email": "camila.santos@example.com"
+    },
+    {
+      "idUsuario": "666",
+      "nomeDeUsuario": "Lucas Rodrigues",
+      "email": "lucas.rodrigues@example.com"
+
+    },
+    {
+      "idUsuario": "777",
+      "nomeDeUsuario": "Isabela Costa",
+      "email": "isabela.costa@example.com"
+
+    }
+  ]
+}
+

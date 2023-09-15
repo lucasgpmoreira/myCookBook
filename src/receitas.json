@@ -1,0 +1,296 @@
+[
+  {
+    "idReceita": 0,
+    "titulo": "Bolo de Chocolate",
+    "idUsuario": "555",
+    "numLikes": 8,
+    "versoes": [
+      {
+        "tituloVersao": "Bolo de Chocolate",
+        "ehOriginal": true,
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "1 1/2 colher de chá de fermento em pó",
+          "1 1/2 colher de chá de bicarbonato de sódio",
+          "1 colher de chá de sal",
+          "2 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione os ovos, o leite, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate simples ou decore com cobertura de sua preferência, como brigadeiro, ganache ou chantilly."
+        ]
+      },
+      {
+        "tituloVersao": "Bolo de Chocolate Vegano",
+        "ehOriginal": false,
+        "ingredientes": [
+          "vegan",
+          "2 xícaras de farinha de trigo",
+          "1 1/2 xícaras de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "2 colheres de chá de fermento em pó",
+          "1 colher de chá de bicarbonato de sódio",
+          "1/2 colher de chá de sal",
+          "1 1/2 xícara de leite vegetal (como leite de amêndoa)",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione o leite vegetal, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate vegano simples ou decore com cobertura de sua preferência, como ganache vegana ou chantilly vegano."
+        ]
+      },
+      {
+        "tituloVersao": "Bolo de Chocolate com Nozes",
+        "ehOriginal": false,
+        "ingredientes": [
+          "1 xícara de nozes",
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "1 1/2 colher de chá de fermento em pó",
+          "1 1/2 colher de chá de bicarbonato de sódio",
+          "1 colher de chá de sal",
+          "2 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente",
+          "1 xícara de nozes picadas"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione os ovos, o leite, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Adicione as nozes picadas à massa e misture delicadamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate com nozes simples ou decore com cobertura de sua preferência, como ganache ou chantilly."
+        ]
+      }
+    ]
+  },
+  {
+    "idReceita": 1,
+    "idUsuario": "333",
+    "titulo": "Lasanha",
+    "numLikes": 10,
+    "versoes": [
+      {
+        "tituloVersao": "Lasanha",
+        "ehOriginal": false,
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "1 1/2 colher de chá de fermento em pó",
+          "1 1/2 colher de chá de bicarbonato de sódio",
+          "1 colher de chá de sal",
+          "2 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione os ovos, o leite, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate simples ou decore com cobertura de sua preferência, como brigadeiro, ganache ou chantilly."
+        ]
+      },
+      {
+        "tituloVersao": "Lasanha Vegana",
+        "ehOriginal": false,
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 1/2 xícaras de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "2 colheres de chá de fermento em pó",
+          "1 colher de chá de bicarbonato de sódio",
+          "1/2 colher de chá de sal",
+          "1 1/2 xícara de leite vegetal (como leite de amêndoa)",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione o leite vegetal, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate vegano simples ou decore com cobertura de sua preferência, como ganache vegana ou chantilly vegano."
+        ]
+      },
+      {
+        "tituloVersao": "Lasanha sem gluten",
+        "ehOriginal": false,
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "1 1/2 colher de chá de fermento em pó",
+          "1 1/2 colher de chá de bicarbonato de sódio",
+          "1 colher de chá de sal",
+          "2 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente",
+          "1 xícara de nozes picadas"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione os ovos, o leite, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Adicione as nozes picadas à massa e misture delicadamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate com nozes simples ou decore com cobertura de sua preferência, como ganache ou chantilly."
+        ]
+      }
+    ]
+  },
+  {
+    "idReceita": 2,
+    "idUsuario": "444",
+    "titulo": "Sopa",
+    "numLikes": 12,
+    "versoes": [
+      {
+        "tituloVersao": "Sopa",
+        "ehOriginal": true,
+        "ingredientes": [
+          "Legumes",
+          "Carne",
+          "3/4 de xícara de cacau em pó",
+          "1 1/2 colher de chá de fermento em pó",
+          "1 1/2 colher de chá de bicarbonato de sódio",
+          "1 colher de chá de sal",
+          "2 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione os ovos, o leite, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate simples ou decore com cobertura de sua preferência, como brigadeiro, ganache ou chantilly."
+        ]
+      },
+      {
+        "tituloVersao": "Sopa Vegetariana",
+        "ehOriginal": false,
+        "ingredientes": [
+          "Legumes",
+          "1 1/2 xícaras de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "2 colheres de chá de fermento em pó",
+          "1 colher de chá de bicarbonato de sódio",
+          "1/2 colher de chá de sal",
+          "1 1/2 xícara de leite vegetal (como leite de amêndoa)",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione o leite vegetal, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate vegano simples ou decore com cobertura de sua preferência, como ganache vegana ou chantilly vegano."
+        ]
+      }
+    ]
+  },
+  {
+    "idReceita": 3,
+    "idUsuario": "333",
+    "titulo": "Feijoada",
+    "numLikes": 6,
+    "versoes": [
+      {
+        "tituloVersao": "Feijoada",
+        "ehOriginal": true,
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "1 1/2 colher de chá de fermento em pó",
+          "1 1/2 colher de chá de bicarbonato de sódio",
+          "1 colher de chá de sal",
+          "2 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione os ovos, o leite, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate simples ou decore com cobertura de sua preferência, como brigadeiro, ganache ou chantilly."
+        ]
+      },
+      {
+        "tituloVersao": "Feijoada light",
+        "ehOriginal": false,
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 1/2 xícaras de açúcar",
+          "3/4 de xícara de cacau em pó",
+          "2 colheres de chá de fermento em pó",
+          "1 colher de chá de bicarbonato de sódio",
+          "1/2 colher de chá de sal",
+          "1 1/2 xícara de leite vegetal (como leite de amêndoa)",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha",
+          "1 xícara de água quente"
+        ],
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+          "Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.",
+          "Adicione o leite vegetal, o óleo vegetal e a baunilha à mistura seca. Bata com uma batedeira em velocidade média até obter uma massa homogênea.",
+          "Reduza a velocidade da batedeira e adicione a água quente. Bata novamente até incorporar completamente.",
+          "Despeje a massa na forma preparada e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+          "Retire do forno e deixe o bolo esfriar na forma por 10 minutos. Em seguida, desenforme e deixe esfriar completamente em uma grade.",
+          "Sirva o bolo de chocolate vegano simples ou decore com cobertura de sua preferência, como ganache vegana ou chantilly vegano."
+        ]
+      }
+    ]
+  }
+]
